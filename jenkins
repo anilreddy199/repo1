@@ -1,0 +1,8 @@
+ls -la
+git staatus 
+git add .
+git commit -m "fist commited by praveen"
+git log
+git reset hard file name
+git reset --hard cid
+git reset --mixed cid
